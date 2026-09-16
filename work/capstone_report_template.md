@@ -1,6 +1,6 @@
 # Capstone Report — Refresh / Content Opportunity Scoring
 
-- **Author:** Tushar Sharma
+- **Author:** Tushar
 - **Lane:** Refresh / Content Opportunity Scoring
 - **Repo:** https://github.com/tushar-sharma001/Flyrank-Ml-Internship
 - **Date:** 2026-09-17
